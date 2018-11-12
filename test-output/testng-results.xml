@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36088" started-at="2018-05-20T04:56:54Z" finished-at="2018-05-20T04:57:30Z">
+  <suite name="Suite" duration-ms="61728" started-at="2018-06-26T09:01:15Z" finished-at="2018-06-26T09:02:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36088" started-at="2018-05-20T04:56:54Z" finished-at="2018-05-20T04:57:30Z">
+    <test name="Test" duration-ms="61728" started-at="2018-06-26T09:01:15Z" finished-at="2018-06-26T09:02:17Z">
       <class name="testcases.TC003_CreateLead">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeSuite" is-config="true" duration-ms="576" started-at="2018-05-20T04:56:53Z" finished-at="2018-05-20T04:56:54Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeSuite" is-config="true" duration-ms="916" started-at="2018-06-26T09:01:14Z" finished-at="2018-06-26T09:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="setData" is-config="true" duration-ms="1" started-at="2018-05-20T04:56:54Z" finished-at="2018-05-20T04:56:54Z">
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="setData" is-config="true" duration-ms="0" started-at="2018-06-26T09:01:15Z" finished-at="2018-06-26T09:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setData -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeClass" is-config="true" duration-ms="2" started-at="2018-05-20T04:56:54Z" finished-at="2018-05-20T04:56:54Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeClass" is-config="true" duration-ms="26" started-at="2018-06-26T09:01:15Z" finished-at="2018-06-26T09:01:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeMethod" is-config="true" duration-ms="16968" started-at="2018-05-20T04:56:55Z" finished-at="2018-05-20T04:57:12Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="beforeMethod" is-config="true" duration-ms="28850" started-at="2018-06-26T09:01:17Z" finished-at="2018-06-26T09:01:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="createLead" duration-ms="16324" started-at="2018-05-20T04:57:12Z" data-provider="fetchData" finished-at="2018-05-20T04:57:29Z">
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="createLead" duration-ms="29675" started-at="2018-06-26T09:01:46Z" data-provider="fetchData" finished-at="2018-06-26T09:02:16Z">
           <params>
             <param index="0">
               <value>
@@ -59,19 +59,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createLead -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterMethod" is-config="true" duration-ms="894" started-at="2018-05-20T04:57:29Z" finished-at="2018-05-20T04:57:30Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterMethod" is-config="true" duration-ms="1225" started-at="2018-06-26T09:02:16Z" finished-at="2018-06-26T09:02:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-05-20T04:57:30Z" finished-at="2018-05-20T04:57:30Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-06-26T09:02:17Z" finished-at="2018-06-26T09:02:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterSuite" is-config="true" duration-ms="777" started-at="2018-05-20T04:57:30Z" finished-at="2018-05-20T04:57:30Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC003_CreateLead@136e911]" name="afterSuite" is-config="true" duration-ms="1929" started-at="2018-06-26T09:02:17Z" finished-at="2018-06-26T09:02:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- testcases.TC003_CreateLead -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

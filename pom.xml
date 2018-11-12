@@ -81,6 +81,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>LeafTaps</finalName>
 	</build>
 </project>
 
